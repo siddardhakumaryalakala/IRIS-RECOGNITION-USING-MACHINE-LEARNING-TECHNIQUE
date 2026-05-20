@@ -67,6 +67,13 @@ Add project screenshots here.
 Example:
 
 ![Output](test.png)
+![Output](OUTPUTS/OUTPUT1.jpeg)
+![Output](OUTPUTS/OUTPUT2.jpeg)
+![Output](OUTPUTS/OUTPUT3.jpeg)
+![Output](OUTPUTS/OUTPUT4.jpeg)
+![Output](OUTPUTS/OUTPUT5.jpeg)
+![Output](OUTPUTS/OUTPUT6.jpeg)
+
 
 # 🎯 Conclusion
 
@@ -77,8 +84,8 @@ This project demonstrates the use of Deep Learning and CNN techniques for accura
 # 🔟 How to Run the Project
 
 Give execution steps.
-
 ```md id="0w8zyf"
+
 ## ▶️ How to Run
 
 ### Step 1
@@ -93,5 +100,13 @@ Click on `Generate & Load CNN Model`
 ### Step 4
 View Accuracy & Loss Graph
 
+
 ### Step 5
 Upload a test iris image to recognize person ID
+
+```
+# 🎯 Conclusion
+
+This project demonstrates the use of Deep Learning and CNN techniques for accurate iris recognition and biometric identification.
+
+---
