@@ -32,7 +32,7 @@ The project uses the CASIA IRIS dataset.
 
 -i have the only given very less data since it cannot upload more than 100  files
 - Contains iris images of 108 persons
-- Dataset stored inside the `3` folder
+- Dataset stored inside the `3,4,5,6,7,8` folder
 - Used for training and testing the CNN model
 
 # ⚙️ Working Process
